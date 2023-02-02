@@ -1,5 +1,3 @@
-/*Buenas profe, le hice unos cambios al programa basandome en lo que he aprendido */
-
 import javax.swing.*;
 class Tarea_progra1 {
 
